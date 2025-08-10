@@ -1,0 +1,5 @@
+body {
+    min-height: fit-content;
+    display: flex;
+    justify-content: center;
+}
